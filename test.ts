@@ -11,4 +11,5 @@ test("Testeo la clase Product y sus métodos", (t) => {
     t.is(newUser.products[0].name, "Chocolate");
     t.is(newUser.products[0].price, 60);
     // texto modificado para prueba
+    // texto de prueba hecho en GitHub para realizar pull en mi archivo local
 });
