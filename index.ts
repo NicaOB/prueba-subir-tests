@@ -17,5 +17,10 @@ class User {
     this.products.push(newProduct);
   }
 }
-
+// var item = new User("Tienda: Los rocos");
+// var caracteristicas = new Product("chocolate", 70.50);
+// var caracteristicas2 = new Product("mate", 60);
+// item.addProduct(caracteristicas);
+// item.addProduct(caracteristicas2);
+// console.log(item);
 export { User, Product };
